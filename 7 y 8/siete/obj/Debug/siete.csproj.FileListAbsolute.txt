@@ -1,0 +1,7 @@
+C:\tareas\PARALELO\1erParcial\7\siete\bin\Debug\siete.exe.config
+C:\tareas\PARALELO\1erParcial\7\siete\bin\Debug\siete.exe
+C:\tareas\PARALELO\1erParcial\7\siete\bin\Debug\siete.pdb
+C:\tareas\PARALELO\1erParcial\7\siete\obj\Debug\siete.csproj.AssemblyReference.cache
+C:\tareas\PARALELO\1erParcial\7\siete\obj\Debug\siete.csproj.CoreCompileInputs.cache
+C:\tareas\PARALELO\1erParcial\7\siete\obj\Debug\siete.exe
+C:\tareas\PARALELO\1erParcial\7\siete\obj\Debug\siete.pdb
