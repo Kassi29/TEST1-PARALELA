@@ -1,5 +1,4 @@
-# Proyecto de Programación y Paralelismo
-
+# 1er Examen
 ## 1. Describa de manera teórica los siguientes conceptos: SISD, SIMD, MISD y MIMD. Indique además que lenguajes aplican a estos.
 
 ## 2. Realice un programa que tenga los métodos suma, resta, multiplicación, división en lenguaje C. Programe lo mismo sin el uso de punteros.
